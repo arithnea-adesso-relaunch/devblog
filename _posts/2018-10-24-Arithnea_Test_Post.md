@@ -21,4 +21,6 @@ Der Schritt [Copy Only] Import Github Blog führt in einem Modul folgende Schrit
 > Zusätzlich werden Tags in eine fest definierte Datenquelle tags importiert. Autoren werden mit der Datenquelle autoren abgeglichen. TODO: als Parameter übergeben
 * Alle importierten Datensätze werden automatisch freigegeben
 
-> Datensätze werden bei jedem durchlaufen *nicht* neu importiert. Hierfür wird eine Prüfsumme über den Inhalt gebildet, die beim Import abgeglichen wird (zu finden im Feld tt_checksum). Zusätzlich wird das Feld tt_github_last_change mit dem letzten Änderungsdatum aus dem XML gefüllt.
+> Datensätze werden bei jedem durchlaufen *nicht* neu importiert. Hierfür wird eine Prüfsumme über den Inhalt gebildet, die beim Import abgeglichen wird (zu finden im Feld tt_checksum). Zusätzlich wird das Feld tt_github_last_change mit dem letzten Änderungsdatum aus dem XML gefüllt. 
+
+`edited`
