@@ -16,13 +16,13 @@ noch einmal grundlegend testen. Dafür ist dieser Testbeitrag gedacht.</p>
         <field name="tag_multi_keyword"><![CDATA[Microservices]]></field>
         <field name="date_date"><![CDATA[2018-10-24T11:01:00+02:00]]></field>
         <field name="date_l"><![CDATA[1540371660000]]></field>
-        <field name="change_date"><![CDATA[1540371660000]]></field>
+        <field name="change_date"><![CDATA[1540533600000]]></field>
         <!--Picture-->
         <!-- Not in use at the moment-->
         <!--Author Information-->
         <field name="author_first_name"><![CDATA[Arithnea]]></field>
         <field name="author_last_name"><![CDATA[Test User]]></field>
-        <field name="author_id"><![CDATA[adesso-relaunch@arithnea.de]]></field>
+        <field name="author_id"><![CDATA[arithnea-adesso-relaunch]]></field>
         <field name="author_picture_stored_only"><![CDATA[http://localhost:4000/assets/images/avatars/shahin.png]]></field>
         <!--Postcontent-->
         <field name="headlines"><![CDATA[Dies ist ein Test Blog Post um den Import ins FS System zu testen]]></field>
@@ -56,7 +56,7 @@ Zusätzlich werden Tags in eine fest definierte Datenquelle tags importiert. Aut
   <p>Datensätze werden bei jedem durchlaufen <em>nicht</em> neu importiert. Hierfür wird eine Prüfsumme über den Inhalt gebildet, die beim Import abgeglichen wird (zu finden im Feld tt_checksum). Zusätzlich wird das Feld tt_github_last_change mit dem letzten Änderungsdatum aus dem XML gefüllt.</p>
 </blockquote>
 
-<p><code>edited</code></p>
+<p><code>edited 2.</code></p>
 
 </div>
 </div>
