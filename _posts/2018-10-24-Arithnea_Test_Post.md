@@ -2,7 +2,7 @@
 layout:         [post, post-xml]              
 title:          "Dies ist ein Test Blog Post um den Import ins FS System zu testen"
 date:           2018-10-24 11:01
-modified_date: 
+modified_date:  2018-10-26 08:00
 author:         arithnea
 categories:     [Java, Architektur]
 tags:           [Spring, Microservices]
@@ -23,4 +23,4 @@ Der Schritt [Copy Only] Import Github Blog führt in einem Modul folgende Schrit
 
 > Datensätze werden bei jedem durchlaufen *nicht* neu importiert. Hierfür wird eine Prüfsumme über den Inhalt gebildet, die beim Import abgeglichen wird (zu finden im Feld tt_checksum). Zusätzlich wird das Feld tt_github_last_change mit dem letzten Änderungsdatum aus dem XML gefüllt. 
 
-`edited`
+`edited 2.`
