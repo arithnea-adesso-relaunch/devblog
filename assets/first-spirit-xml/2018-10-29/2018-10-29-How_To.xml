@@ -98,6 +98,7 @@ Der Blog Post ist damit nicht sortierbar und wird nur unter der Rubrik “Neuest
 Damit die Beiträge auf der Übersichtsseite erscheinen muss der Crawler für die Blog beiträge ausgeführt werden. Dieser läuft ebenso in einem Intervall von 30 Minuten.
 Im schlechtesten Fall müsste der Nutzer 30 Minuten warten, bis Änderungen auf der Übersichtsseite sichtbar sind. Alternativ kann der Crawler manuell im haupia Backend gestartet werden.</p>
 
+<p><em>edited</em></p>
 
 </div>
 </div>
