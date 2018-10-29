@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <documents>
-    <document uid="5632b190c41a8887a55d501cc8ea7add">
+    <document uid="b737c13150a9c60fd1bf62b20ab2f25a">
         <field name="title"><![CDATA[How To - GitHub Blog - First Spirit Import]]></field>
         <field name="subline"><![CDATA[]]></field>
         <field name="teaser"><![CDATA[<p>Diesem Post können Sie eine Anleitung entnehmen wie man einen Post im GitHub verfasst und dieser in das CMS importiert wird.</p>
@@ -10,9 +10,9 @@
         <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
         <field name="mime_type_multi_keyword"><![CDATA[text/html]]></field>
         <field name="category_multi_keyword"><![CDATA[HowTo]]></field>
-        <field name="date_date"><![CDATA[2018-10-26T09:00:00+02:00]]></field>
-        <field name="date_l"><![CDATA[1540537200000]]></field>
-        <field name="change_date"><![CDATA[1540537200000]]></field>
+        <field name="date_date"><![CDATA[2018-10-29T09:00:00+01:00]]></field>
+        <field name="date_l"><![CDATA[1540800000000]]></field>
+        <field name="change_date"><![CDATA[1540800000000]]></field>
         <!--Picture-->
         <!-- Not in use at the moment-->
         <!--Author Information-->
