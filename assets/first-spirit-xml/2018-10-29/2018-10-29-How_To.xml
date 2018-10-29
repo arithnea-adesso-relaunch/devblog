@@ -9,10 +9,11 @@
         <field name="language_multi_keyword"><![CDATA[de]]></field>
         <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
         <field name="mime_type_multi_keyword"><![CDATA[text/html]]></field>
-        <field name="category_multi_keyword"><![CDATA[HowTo]]></field>
+        <field name="category_multi_keyword"><![CDATA[Java]]></field>
+        <field name="tag_multi_keyword"><![CDATA[HowTo]]></field>
         <field name="date_date"><![CDATA[2018-10-29T09:00:00+01:00]]></field>
         <field name="date_l"><![CDATA[1540800000000]]></field>
-        <field name="change_date"><![CDATA[1540800000000]]></field>
+        <field name="change_date"><![CDATA[1540803600000]]></field>
         <!--Picture-->
         <!-- Not in use at the moment-->
         <!--Author Information-->
