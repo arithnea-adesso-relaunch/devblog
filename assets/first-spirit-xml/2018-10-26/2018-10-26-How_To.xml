@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<documents>
+    <document uid="5632b190c41a8887a55d501cc8ea7add">
+        <field name="title"><![CDATA[How To - GitHub Blog - First Spirit Import]]></field>
+        <field name="subline"><![CDATA[]]></field>
+        <field name="teaser"><![CDATA[<p>Diesem Post können Sie eine Anleitung entnehmen wie man einen Post im GitHub verfasst und dieser in das CMS importiert wird.</p>
+
+]]></field>
+        <field name="language_multi_keyword"><![CDATA[de]]></field>
+        <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
+        <field name="mime_type_multi_keyword"><![CDATA[text/html]]></field>
+        <field name="category_multi_keyword"><![CDATA[HowTo]]></field>
+        <field name="date_date"><![CDATA[2018-10-26T09:00:00+02:00]]></field>
+        <field name="date_l"><![CDATA[1540537200000]]></field>
+        <field name="change_date"><![CDATA[1540537200000]]></field>
+        <!--Picture-->
+        <!-- Not in use at the moment-->
+        <!--Author Information-->
+        <field name="author_first_name"><![CDATA[Arithnea]]></field>
+        <field name="author_last_name"><![CDATA[Test User]]></field>
+        <field name="author_id"><![CDATA[arithnea-adesso-relaunch]]></field>
+        <field name="author_picture_stored_only"><![CDATA[http://localhost:4000/assets/images/avatars/shahin.png]]></field>
+        <!--Postcontent-->
+        <field name="headlines"><![CDATA[How To - GitHub Blog - First Spirit Import]]></field>
+        <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
+            <p>Diesem Post können Sie eine Anleitung entnehmen wie man einen Post im GitHub verfasst und dieser in das CMS importiert wird.</p>
+
+</div>]]></field>
+        <field name="content"><![CDATA[<div class="adesso-text-formate">
+<div class="row p-t-2">
+<div class="adesso-container">
+<div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
+    <p>Diesem Post können Sie eine Anleitung entnehmen wie man einen Post im GitHub verfasst und dieser in das CMS importiert wird.</p>
+
+<h4 id="ein-neuer-post-im-github">Ein neuer Post im GitHub</h4>
+<h5 id="neuer-autor">Neuer Autor</h5>
+<blockquote>
+  <p>Für die Angabe des Autors im ausspielenden CMS ist es wichtig, dass der Autor, vor dem Einchecken 
+des neuen Beitrags, in die Datenquelle im CMS eingefügt wurde.</p>
+</blockquote>
+
+<p><img src="/assets/images/posts/autoren_fs.JPG" alt="Autoren Datenquellel" /></p>
+
+<blockquote>
+  <p>Hier ist es wichtig darauf zu achten, dass in der Datenquelle der GitHub-Benutzername als Github ID verwendet wird.</p>
+</blockquote>
+
+<h5 id="neuer-post">Neuer Post</h5>
+<blockquote>
+  <p>Da das ausspielende System Unix basierend  und somit Case Sensitiv ist, muss auf Groß- und Kleinschreibung bei Pfadangaben geachtet werden.</p>
+</blockquote>
+
+<h5 id="einchecken-des-neuen-posts">Einchecken des neuen Posts</h5>
+<p>Sobald der Post eingescheckt wird, bzw. über das Pull Request der neue Post validiert und eingescheckt wurde, wird jekyll die Markdown Datei
+in eine XML parsen und diese in den vorgesehenen Ordner ablegen.
+Diese steht dann für den Import ins First Spirit System bereit.</p>
+
+<h4 id="der-import-prozess">Der Import Prozess</h4>
+<p>Der Job für den Import läuft im Intervall alle 30 Minuten.
+Es werden folgende Unterjobs werden auf Int ausgeführt:</p>
+<ul>
+  <li>Den eigentlichen Import</li>
+  <li>.de Autritt
+    <ul>
+      <li>Datengenerierung</li>
+      <li>Veröffentlichung der Seed Datei</li>
+      <li>Veröffentlichung der Medien</li>
+    </ul>
+  </li>
+  <li>.ch Autritt
+    <ul>
+      <li>Datengenerierung</li>
+      <li>Veröffentlichung der Seed Datei</li>
+      <li>Veröffentlichung der Medien</li>
+    </ul>
+  </li>
+  <li>.at Auftritt
+    <ul>
+      <li>Datengenerierung</li>
+      <li>Veröffentlich der Seed Datei</li>
+      <li>Veröffentlich der Medien</li>
+    </ul>
+  </li>
+</ul>
+
+<p>Der Job muss somit für jeden Autritt erweitert werden.</p>
+
+<p><img src="/assets/images/posts/github_datenquelle_fs.JPG" alt="Github Datenquellel" /></p>
+
+<p>Beim Import werden das Datum, der Autor, Anreißer, Inhalt, die Überschrift, Tags und Kategorie gemappt.
+Das Datum wird für die Sortierung verwendet. Der Autor wird aus der schon oben genannten Datenquelle gezogen.
+Der Anreißer und Inhalt werden in HTML abgespeichert und plain ausgespielt. Die Tags werden mit der Datenquelle in First Spirit
+abgeglichen und ggfs. in der Datenquelle ergänzt. Wenn die Kategorie nicht mit einem Eintrat übereinstimmt wird diese nicht übernommen und auch nicht ausgespielt.
+Der Blog Post ist damit nicht sortierbar und wird nur unter der Rubrik “Neueste Beiträge” angezeigt.</p>
+
+<p>Nach Beendigung des Imports wurden die Detailseiten aktualisiert/neu angelegt. 
+Damit die Beiträge auf der Übersichtsseite erscheinen muss der Crawler für die Blog beiträge ausgeführt werden. Dieser läuft ebenso in einem Intervall von 30 Minuten.
+Im schlechtesten Fall müsste der Nutzer 30 Minuten warten, bis Änderungen auf der Übersichtsseite sichtbar sind. Alternativ kann der Crawler manuell im haupia Backend gestartet werden.</p>
+
+
+</div>
+</div>
+</div>
+</div>]]></field>
+    </document>
+</documents>
