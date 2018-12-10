@@ -105,3 +105,12 @@ arithnea:
   bio: "Dies ist ein Testaccount"
   avatar_url: /assets/images/avatars/shahin.png
   github: https://github.com/arithnea-adesso-relaunch/devblog
+
+adessoCCO:
+  first_name: adesso
+  last_name: CCO
+  github_username: adessoCCO
+  email: cco@adesso.de
+  bio: "Test-User von CCO"
+  avatar_url: /assets/images/avatars/adesso.png
+  github: https://github.com/adessoCCO
