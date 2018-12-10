@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <documents>
     <document uid="b737cfefefa9c60fd1bf62b20ab2f252">
-        <field name="title"><![CDATA[How To - GitHub Blog - First Spirit Import]]></field>
+        <field name="title"><![CDATA[DiDo Test]]></field>
         <field name="subline"><![CDATA[]]></field>
         <field name="teaser"><![CDATA[<p>Dies ist ein Test um den Import der Blog-Posts zu testen.</p>
 ]]></field>
@@ -12,7 +12,7 @@
         <field name="tag_multi_keyword"><![CDATA[Test]]></field>
         <field name="date_date"><![CDATA[2018-12-10T09:00:00+01:00]]></field>
         <field name="date_l"><![CDATA[1544428800000]]></field>
-        <field name="change_date"><![CDATA[1544439900000]]></field>
+        <field name="change_date"><![CDATA[1544440000000]]></field>
         <!--Picture-->
         <!-- Not in use at the moment-->
         <!--Author Information-->
