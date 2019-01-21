@@ -1,0 +1,40 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<documents>
+    <document uid="tbmoA39q80wyq3AlucYJTK4lrEanirYh">
+        <field name="title"><![CDATA[Devtest 2019-1-21 09:53:47]]></field>
+        <field name="subline"><![CDATA[]]></field>
+        <field name="teaser"><![CDATA[<p>Dies ist ein Test um den Import der Blog-Posts zu testen.</p>
+]]></field>
+        <field name="language_multi_keyword"><![CDATA[de]]></field>
+        <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
+        <field name="mime_type_multi_keyword"><![CDATA[text/html]]></field>
+        <field name="category_multi_keyword"><![CDATA[Java]]></field>
+        <field name="tag_multi_keyword"><![CDATA[Test]]></field>
+        <field name="date_date"><![CDATA[2019-01-21T09:53:47+01:00]]></field>
+        <field name="date_l"><![CDATA[1548060827600]]></field>
+        <field name="change_date"><![CDATA[1548060827600]]></field>
+        <!--Picture-->
+        <!-- Not in use at the moment-->
+        <!--Author Information-->
+        <field name="author_first_name"><![CDATA[CCO]]></field>
+        <field name="author_last_name"><![CDATA[Test User]]></field>
+        <field name="author_id"><![CDATA[adessoCCO]]></field>
+        <field name="author_picture_stored_only"><![CDATA[http://localhost:4000/assets/images/avatars/adesoCCO.png]]></field>
+        <!--Postcontent-->
+        <field name="headlines"><![CDATA[Devtest 2019-1-21 09:53:47]]></field>
+        <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
+            <p>Dieser Blog-Post wurde mittels manuell angepasstem XML erstellt, um die Importfunktionalität zu testen.</p>
+
+</div>]]></field>
+        <field name="content"><![CDATA[<div class="adesso-text-formate">
+  <div class="row p-t-2">
+    <div class="adesso-container">
+      <div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
+          <p>Dieser Blog-Post wurde am 2019-1-21 09:53:47 mittels manuell angepasstem XML erstellt, um die Importfunktionalität zu testen.</p>
+      </div>
+    </div>
+  </div>
+</div>]]></field>
+    </document>
+</documents>
