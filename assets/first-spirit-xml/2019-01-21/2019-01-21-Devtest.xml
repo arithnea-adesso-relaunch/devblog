@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<documents>
+    <document uid="e892d3917b0347c002509728dae6598e">
+        <field name="title"><![CDATA[Testpost]]></field>
+        <field name="subline"><![CDATA[]]></field>
+        <field name="teaser"><![CDATA[<p>Diesem Post können Sie eine Anleitung entnehmen wie man einen Post im GitHub verfasst und dieser in das CMS importiert wird.</p>
+]]></field>
+        <field name="language_multi_keyword"><![CDATA[de]]></field>
+        <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
+        <field name="mime_type_multi_keyword"><![CDATA[text/html]]></field>
+        <field name="category_multi_keyword"><![CDATA[Java]]></field>
+        <field name="tag_multi_keyword"><![CDATA[HowTo]]></field>
+        <field name="date_date"><![CDATA[2019-01-21T10:15:00+01:00]]></field>
+        <field name="date_l"><![CDATA[1548062100000]]></field>
+        <field name="change_date"><![CDATA[1516526100000]]></field>
+        <!--Picture-->
+        <!-- Not in use at the moment-->
+        <!--Author Information-->
+        <field name="author_first_name"><![CDATA[Arithnea]]></field>
+        <field name="author_last_name"><![CDATA[Test User]]></field>
+        <field name="author_id"><![CDATA[arithnea-adesso-relaunch]]></field>
+        <field name="author_picture_stored_only"><![CDATA[http://localhost:4000/assets/images/avatars/shahin.png]]></field>
+        <!--Postcontent-->
+        <field name="headlines"><![CDATA[Testpost]]></field>
+        <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
+            <p>Diesem Post können Sie eine Anleitung entnehmen wie man einen Post im GitHub verfasst und dieser in das CMS importiert wird.</p>
+</div>]]></field>
+        <field name="content"><![CDATA[<div class="adesso-text-formate">
+<div class="row p-t-2">
+<div class="adesso-container">
+<div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
+    <p>Diesem Post können Sie eine Anleitung entnehmen wie man einen Post im GitHub verfasst und dieser in das CMS importiert wird.</p>
+
+</div>
+</div>
+</div>
+</div>]]></field>
+    </document>
+</documents>
