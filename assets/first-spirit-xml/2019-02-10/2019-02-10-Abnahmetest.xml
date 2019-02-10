@@ -20,13 +20,13 @@
         <field name="language_multi_keyword"><![CDATA[de]]></field>
         <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
         <field name="mime_type_multi_keyword"><![CDATA[text/html]]></field>
-        <field name="category_multi_keyword"><![CDATA[Architekturen]]></field>
+        <field name="category_multi_keyword"><![CDATA[Architektur]]></field>
         <field name="tag_multi_keyword"><![CDATA[Docker]]></field>
         <field name="tag_multi_keyword"><![CDATA[GitHub]]></field>
         <field name="tag_multi_keyword"><![CDATA[MarkDown]]></field>
         <field name="date_date"><![CDATA[2019-02-10T20:05:00+01:00]]></field>
         <field name="date_l"><![CDATA[1549825500000]]></field>
-        <field name="change_date"><![CDATA[1552244700000]]></field>
+        <field name="change_date"><![CDATA[1552248600000]]></field>
         <!--Picture-->
         <!-- Not in use at the moment-->
         <!--Author Information-->
