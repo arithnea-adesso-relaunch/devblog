@@ -2,9 +2,9 @@
 layout:         [post, post-xml]              
 title:          "Testpost"
 date:           2019-02-10 20:05
-modified_date:  2019-03-10 20:05
+modified_date:  2019-03-10 21:10
 author:         adessoCCO
-categories:     [Architekturen]
+categories:     [Architektur]
 tags:           [Docker, GitHub, MarkDown]
 ---
 
