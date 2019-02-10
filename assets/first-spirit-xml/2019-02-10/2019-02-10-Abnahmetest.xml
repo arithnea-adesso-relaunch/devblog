@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<documents>
+    <document uid="ac61f80e5b18edf88786aea3bd0ea5e8">
+        <field name="title"><![CDATA[Testpost]]></field>
+        <field name="subline"><![CDATA[]]></field>
+        <field name="teaser"><![CDATA[<p>Dieser Post soll den vollständigen Prozess testen. Von der MarkDown-Datei zum FirstSpirit-Eintrag</p>
+<ol>
+  <li>Hierzu sind</li>
+  <li>ein paar Schritte</li>
+  <li>erforderlich
+    <ul>
+      <li>Schritt 1</li>
+      <li>Schritt 2</li>
+      <li>Schritt 3</li>
+    </ul>
+  </li>
+</ol>
+
+]]></field>
+        <field name="language_multi_keyword"><![CDATA[de]]></field>
+        <field name="content_type_multi_keyword"><![CDATA[blog]]></field>
+        <field name="mime_type_multi_keyword"><![CDATA[text/html]]></field>
+        <field name="category_multi_keyword"><![CDATA[Architekturen]]></field>
+        <field name="tag_multi_keyword"><![CDATA[Docker]]></field>
+        <field name="tag_multi_keyword"><![CDATA[GitHub]]></field>
+        <field name="tag_multi_keyword"><![CDATA[MarkDown]]></field>
+        <field name="date_date"><![CDATA[2019-02-10T20:05:00+01:00]]></field>
+        <field name="date_l"><![CDATA[1549825500000]]></field>
+        <field name="change_date"><![CDATA[1552244700000]]></field>
+        <!--Picture-->
+        <!-- Not in use at the moment-->
+        <!--Author Information-->
+        <field name="author_first_name"><![CDATA[adesso]]></field>
+        <field name="author_last_name"><![CDATA[CCO]]></field>
+        <field name="author_id"><![CDATA[adessoCCO]]></field>
+        <field name="author_picture_stored_only"><![CDATA[http://localhost:4000/assets/images/avatars/adesso.png]]></field>
+        <!--Postcontent-->
+        <field name="headlines"><![CDATA[Testpost]]></field>
+        <field name="display_content"><![CDATA[<div class="i2-intro p-t-1">
+            <p>Dieser Post soll den vollständigen Prozess testen. Von der MarkDown-Datei zum FirstSpirit-Eintrag</p>
+<ol>
+  <li>Hierzu sind</li>
+  <li>ein paar Schritte</li>
+  <li>erforderlich
+    <ul>
+      <li>Schritt 1</li>
+      <li>Schritt 2</li>
+      <li>Schritt 3</li>
+    </ul>
+  </li>
+</ol>
+
+</div>]]></field>
+        <field name="content"><![CDATA[<div class="adesso-text-formate">
+<div class="row p-t-2">
+<div class="adesso-container">
+<div class="col-xl-8 adesso-center p-b-1 p-l-0 p-r-0">
+    <p>Dieser Post soll den vollständigen Prozess testen. Von der MarkDown-Datei zum FirstSpirit-Eintrag</p>
+<ol>
+  <li>Hierzu sind</li>
+  <li>ein paar Schritte</li>
+  <li>erforderlich
+    <ul>
+      <li>Schritt 1</li>
+      <li>Schritt 2</li>
+      <li>Schritt 3</li>
+    </ul>
+  </li>
+</ol>
+
+<h5 id="überschriften-müssen-auch-getestet-werden">Überschriften müssen auch getestet werden</h5>
+<pre><code class="language-html">&lt;html&gt;
+  &lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Hello World!&lt;/h1&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
+
+</div>
+</div>
+</div>
+</div>]]></field>
+    </document>
+</documents>
